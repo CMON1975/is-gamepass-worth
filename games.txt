@@ -1,0 +1,28 @@
+# Currently playing on Game Pass Ultimate
+# One title per line. Lines starting with # are ignored.
+The Elder Scrolls IV: Oblivion Remastered
+Starfield
+Indiana Jones and the great circle
+Avatar: frontiers of pandora
+The outer worlds 2
+Call of duty: wwii
+Warhammer 40,000: space Marine 2
+Call of duty: modern warfare
+Avowed
+Metaphor: refantazio
+The alters
+Banishers: ghosts of new Eden
+clair obscur: expedition 33
+High on life
+deathloop
+atomfall
+roadcraft
+Aliens: dark descent
+Prince of Persia: The lost Crown
+Keeper
+Routine
+Replaced
+Little nightmares II
+Fallout: new Vegas
+The rogue prince of Persia
+Easy delivery co.
